@@ -1,0 +1,3 @@
+ Atomic Number | Ionization State | Wavelength (Ang.) |          g_i*f_ik | E_i(cm^-1) |     i |     j |
+           3.0 |              3.0 | 729.1000366210938 | 1.391938328742981 |        0.0 | 333.0 | 666.0 |
+%NIST
